@@ -1,1 +1,1 @@
-{"wifiBip":true,"lowSignalBip":true,"blockedBip":true,"hoursOffline":3}
+{"wifiBip":true,"lowSignalBip":true,"blockedBip":true,"hoursOffline":1}
